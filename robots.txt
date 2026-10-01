@@ -1,0 +1,8 @@
+# robots.txt — London Luxe Detailing (demo)
+# Replace with real domain when going live
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://londonlaxedetailing.example/sitemap.xml

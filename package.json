@@ -1,0 +1,15 @@
+{
+  "name": "london-luxe-detailing",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Premium auto detailing website for London Luxe Detailing (demo/fictional)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}
